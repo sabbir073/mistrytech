@@ -980,7 +980,7 @@ a.ttm-btn.ttm-btn-style-fill.ttm-btn-color-white:hover,
 .sidebar .widget-title , .featured-imagebox-team.style1 .ttm-media-link,
 .comment-body, .ttm-single-product-details ul.tabs li a, 
 .coupon_toggle .coupon_code, .checkout #payment{
-    background-color: #f7f7f7;
+    background-color: #fff;
 }
 .featured-imagebox-post.style2 .featured-imagebox-post-inner,
 .ttm-icon.ttm-icon_element-border.ttm-icon_element-color-grey{
@@ -2552,3 +2552,70 @@ section.error-404 .page-content p{
 /*  Map
 /*------------------------------------------------------------------------------*/   
 #map { display: block; height: 400px; width: 100%; }
+
+/*  Custom css
+/*------------------------------------------------------------------------------*/   
+.welcome-section{
+    background-color: #f0f0f0;
+    padding: 100px 0 250px 0px;
+}
+.service-px-5{
+    padding-left: 5rem;
+    padding-right: 5rem;
+}
+.service-box{
+    padding: 20px 30px;
+    text-align: center;
+}
+.service-box h2{
+    font-size: 45px;
+    margin: 20px 0;
+}
+.service-mb-5{
+    margin-bottom: 6rem;
+}
+.section-title.title-style-center_text {
+    text-align: center;
+    margin-bottom: 0px;
+    margin-top: 80px;
+}
+
+.bg-dark{
+    background-color: #232323 !important;
+}
+.col-bg-img-two.ttm-col-bgimage-yes > .ttm-col-wrapper-bg-layer{
+    height: 650px;
+}
+.spacing-44{
+    margin-top: 200px;
+}
+.project-margin-top{
+    margin-top: 50px;
+}
+.project-padding-top{
+    padding-top: 80px;
+}
+.project-padding-top-2 {
+    padding-top: 170px;
+    margin-top: 80px;
+    padding-bottom: 200px;
+}
+.right-side-image{
+    top: 160px;
+    right: 0 !important;
+    margin-left: 0 !important;
+    margin-right: -80px;
+}
+.testimonial-pt-100{
+    padding-top: 200px !important;
+}
+.project-margin-top-4{
+    margin-top: -150px;
+}
+.partners-mb-5{
+    margin-bottom: 6rem !important;
+}
+.service-item, .service-item ul {
+    
+    list-style-type: none;
+}
