@@ -111,7 +111,7 @@
 	}
 	.header.ttm-header-style-01 nav.main-menu {
 	    height: 95px;
-	    line-height: 95px;
+	    /* line-height: 95px; */
 	}
 	header.ttm-header-style-01 #site-header-menu:after {
 	    position: absolute;
